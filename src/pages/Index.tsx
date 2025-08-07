@@ -47,7 +47,7 @@ export default function Index() {
           </div>
           <div className="mt-16 animate-fade-in">
             <img 
-              src="/img/1411beba-e0be-43ae-ac50-644783012932.jpg" 
+              src="/img/aa876076-6069-4811-aef5-dbcb0532bb4d.jpg" 
               alt="Modern IT workspace"
               className="rounded-2xl shadow-2xl mx-auto max-w-4xl w-full"
             />
@@ -163,7 +163,7 @@ export default function Index() {
             </div>
             <div>
               <img 
-                src="/img/1834f1b9-6dca-4e52-8293-17b358cde3be.jpg" 
+                src="/img/31c5a312-3ceb-4d56-8c2d-f5fd25e3189f.jpg" 
                 alt="Our team"
                 className="rounded-2xl shadow-lg w-full"
               />
