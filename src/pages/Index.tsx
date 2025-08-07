@@ -11,7 +11,7 @@ export default function Index() {
       <nav className="bg-white/80 backdrop-blur-sm border-b sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <div className="text-2xl font-bold text-primary">ITCompany</div>
+            <div className="text-2xl font-bold text-primary">BYTES Best IT Solution</div>
             <div className="hidden md:flex space-x-6">
               <a href="#services" className="text-gray-700 hover:text-primary transition-colors">Услуги</a>
               <a href="#about" className="text-gray-700 hover:text-primary transition-colors">О компании</a>
@@ -474,7 +474,7 @@ export default function Index() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">ITCompany</h3>
+              <h3 className="text-xl font-bold mb-4">BYTES Best IT Solution</h3>
               <p className="text-gray-400 mb-4">
                 Ваш надежный партнер в мире информационных технологий
               </p>
@@ -520,7 +520,7 @@ export default function Index() {
 
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400">
-              © 2024 ITCompany. Все права защищены.
+              © 2024 BYTES Best IT Solution. Все права защищены.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-white">Политика конфиденциальности</a>
